@@ -1,0 +1,3049 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="" property="og:image">
+   <meta content="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025" name="description"/>
+   <meta content="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025" name="keywords"/>
+   <meta content="Galambos Dániel" name="author"/>
+   <title>
+    Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025
+   </title>
+   <link href="https://www.webnyeremeny.hu/assets/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-300-latin.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-300-latin-ext.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-600-latin.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-600-latin-ext.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/quicksand-normal-500-latin.woff" rel="preload" type="font/woff"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/quicksand-normal-500-latin-ext.woff" rel="preload" type="font/woff"/>
+   <!-- Styles -->
+   <link href="/css/fonts.css?id=aaa3faf3f4b44dff6dbb" rel="stylesheet" type="text/css">
+    <link href="/css/main.css?id=f438bce50a24b7e2a059" rel="stylesheet" type="text/css">
+     <link href="/css/home.css?id=d5a8067d542717d8ec79" rel="stylesheet" type="text/css">
+      <script src="/js/magic-grid.min.js?id=26b51704e09ee8ef20ab">
+      </script>
+      <script>
+       function initMagicGrid(elem) {
+			let magicGrid = new MagicGrid({
+				container: elem, // Required. Can be a class, id, or an HTMLElement.
+				static: true, // Required for static content.
+				maxColumns: 2,
+				gutter: 24,
+				//animate: true,
+			});
+			magicGrid.listen();
+			return magicGrid;
+		}
+      </script>
+      <!-- Calendar -->
+      <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/main.min.js">
+      </script>
+      <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/main.min.css" rel="stylesheet">
+       <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/locales/hu.js">
+       </script>
+       <style>
+        #calendar .fc-event-title {
+			color: #fff;
+		}
+       </style>
+       <!-- Google tag (gtag.js) -->
+       <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VJLWSHDYSL">
+       </script>
+       <script>
+        window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJLWSHDYSL');
+       </script>
+       <script src="//gemhu.adocean.pl/files/js/ado.js" type="text/javascript">
+       </script>
+       <script type="text/javascript">
+        /* (c)AdOcean 2003-2020 */
+        if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+        ado.config({mode: "old", xml: false, consent: true, characterEncoding: true});
+        ado.preview({enabled: true});
+       </script>
+       <script type="text/javascript">
+        var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1542076-33']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+       </script>
+       <script async="" data-ad-client="ca-pub-6824462112492159" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+       </script>
+       <script charset="utf-8" src="//ad.adverticum.net/g3.js" type="text/javascript">
+       </script>
+      </link>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body>
+  <header class="bg-dark">
+   <div class="container flex">
+    <div class="logo flex-1">
+     <a href="/">
+      <img alt="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025 logo" height="41" src="https://www.webnyeremeny.hu/assets/logo/webnyeremeny.png" width="290"/>
+     </a>
+    </div>
+    <div class="right-section flex">
+     <div class="notification flex">
+      <label class="animate" for="modal-cb">
+       <svg aria-hidden="true" class="icon" data-icon="bell" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+        <path d="M224 512c35.32 0 63.97-28.65 63.97-64H160.03c0 35.35 28.65 64 63.97 64zm215.39-149.71c-19.32-20.76-55.47-51.99-55.47-154.29 0-77.7-54.48-139.9-127.94-155.16V32c0-17.67-14.32-32-31.98-32s-31.98 14.33-31.98 32v20.84C118.56 68.1 64.08 130.3 64.08 208c0 102.3-36.15 133.53-55.47 154.29-6 6.45-8.66 14.16-8.61 21.71.11 16.4 12.98 32 32.1 32h383.8c19.12 0 32-15.6 32.1-32 .05-7.55-2.61-15.27-8.61-21.71z" fill="currentColor">
+        </path>
+       </svg>
+      </label>
+     </div>
+     <div class="newsletter flex-1">
+      <a href="https://forum.webnyeremeny.hu/regisztracio.php?comment=Az%20ingyenes%20heti%20Webnyerem%C3%A9ny%20h%C3%ADrlev%C3%A9lre%20az%20al%C3%A1bbiak%20kit%C3%B6lt%C3%A9s%C3%A9vel%20iratkozhatsz%20fel:%3Cbr%3EHa%20a%20k%C3%A9s%C5%91bbiekben%20m%C3%A1r%20nem%20szeretn%C3%A9d%20tov%C3%A1bb%20kapni%20a%20h%C3%ADrlevelet,%20ugyanitt%20iratkozhatsz%20le,%20a%20h%C3%ADrlev%C3%A9l%20pontban,%20a%20pipa%20kit%C3%B6rl%C3%A9s%C3%A9vel." target="_blank">
+       <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+        <path d="M440 6.5L24 246.4c-34.4 19.9-31.1 70.8 5.7 85.9L144 379.6V464c0 46.4 59.2 65.5 86.6 28.6l43.8-59.1 111.9 46.2c5.9 2.4 12.1 3.6 18.3 3.6 8.2 0 16.3-2.1 23.6-6.2 12.8-7.2 21.6-20 23.9-34.5l59.4-387.2c6.1-40.1-36.9-68.8-71.5-48.9zM192 464v-64.6l36.6 15.1L192 464zm212.6-28.7l-153.8-63.5L391 169.5c10.7-15.5-9.5-33.5-23.7-21.2L155.8 332.6 48 288 464 48l-59.4 387.3z" fill="currentColor">
+        </path>
+       </svg>
+       <b>
+        Hírlevél feliratkozás
+       </b>
+      </a>
+     </div>
+     <div class="text-right">
+      <a href="https://forum.webnyeremeny.hu/forumtemak.php" target="_blank">
+       <button>
+        <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+         <path d="M532 386.2c27.5-27.1 44-61.1 44-98.2 0-80-76.5-146.1-176.2-157.9C368.3 72.5 294.3 32 208 32 93.1 32 0 103.6 0 192c0 37 16.5 71 44 98.2-15.3 30.7-37.3 54.5-37.7 54.9-6.3 6.7-8.1 16.5-4.4 25 3.6 8.5 12 14 21.2 14 53.5 0 96.7-20.2 125.2-38.8 9.2 2.1 18.7 3.7 28.4 4.9C208.1 407.6 281.8 448 368 448c20.8 0 40.8-2.4 59.8-6.8C456.3 459.7 499.4 480 553 480c9.2 0 17.5-5.5 21.2-14 3.6-8.5 1.9-18.3-4.4-25-.4-.3-22.5-24.1-37.8-54.8zm-392.8-92.3L122.1 305c-14.1 9.1-28.5 16.3-43.1 21.4 2.7-4.7 5.4-9.7 8-14.8l15.5-31.1L77.7 256C64.2 242.6 48 220.7 48 192c0-60.7 73.3-112 160-112s160 51.3 160 112-73.3 112-160 112c-16.5 0-33-1.9-49-5.6l-19.8-4.5zM498.3 352l-24.7 24.4 15.5 31.1c2.6 5.1 5.3 10.1 8 14.8-14.6-5.1-29-12.3-43.1-21.4l-17.1-11.1-19.9 4.6c-16 3.7-32.5 5.6-49 5.6-54 0-102.2-20.1-131.3-49.7C338 339.5 416 272.9 416 192c0-3.4-.4-6.7-.7-10C479.7 196.5 528 238.8 528 288c0 28.7-16.2 50.6-29.7 64z" fill="currentColor">
+         </path>
+        </svg>
+        Fórum
+       </button>
+      </a>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="modal-container container">
+   <input class="hidden" id="modal-cb" name="showNotifDialog" type="checkbox"/>
+   <div class="notification-modal">
+    <label class="close" for="modal-cb">
+     <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+      <path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" fill="currentColor">
+      </path>
+     </svg>
+    </label>
+    <h3>
+     Iratkozz fel!
+    </h3>
+    <p class="row">
+     Ha feliratkozol, rögtön küldünk értesítést, amint egy új nyereményjáték megjelenik az oldalon.
+    </p>
+    <button onclick="initSW()">
+     Feliratkozom!
+    </button>
+   </div>
+  </div>
+  <div class="container flex home" id="page">
+   <main>
+    <div class="row category-container" id="upper-category-container">
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Startolj rá!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/sierra-tequila-nyeremenyjatek">
+          <span class="uppercase">
+           Sierra Tequila
+          </span>
+          <span class="theme-color">
+           (07.09.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-korzo-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan Korzó
+          </span>
+          <span class="theme-color">
+           (07.10.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tisza-coop-frutti-italpor-nyeremenyjatek">
+          <span class="uppercase">
+           Tisza-Coop - Frutti italpor
+          </span>
+          <span class="theme-color">
+           (07.12.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-biotech-usa-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Biotech USA
+          </span>
+          <span class="theme-color">
+           (07.13.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/rossmann-head-shoulders-old-spice-nyeremenyjatek">
+          <span class="uppercase">
+           Rossmann - Head &amp; Shoulders, Old Spice
+          </span>
+          <span class="theme-color">
+           (07.13.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nottevit-nyeremenyjatek">
+          <span class="uppercase">
+           Nottevit.hu
+          </span>
+          <span class="theme-color">
+           (07.13.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tippmix-nyeremenyjatek">
+          <span class="uppercase">
+           Tippmix
+          </span>
+          <span class="theme-color">
+           (07.13.)
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Utoljára frissített
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/fressnapf-purina-felix-nyeremenyjatek">
+          <span class="uppercase">
+           Fressnapf - Purina Felix
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mizo-coffee-selection-nyeremenyjatek">
+          <span class="uppercase">
+           Mizo Coffee Selection
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cba-delikat-rauch-mytea-nyeremenyjatek">
+          <span class="uppercase">
+           CBA Delikát - Rauch MyTea
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-lipton-ice-tea-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Lipton Ice Tea
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/monster-nyeremenyjatek">
+          <span class="uppercase">
+           Monster
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tuc-nyeremenyjatek">
+          <span class="uppercase">
+           TUC
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/loctite-nyeremenyjatek">
+          <span class="uppercase">
+           Loctite
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/zolafood-nyeremenyjatek">
+          <span class="uppercase">
+           ZolaFood
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ecofamily-nyeremenyjatek">
+          <span class="uppercase">
+           Ecofamily
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-szentkiralyi-nyeremenyjatek">
+          <span class="uppercase">
+           Penny - Szentkirályi
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj műszaki cikket!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/tuc-nyeremenyjatek">
+          <span class="uppercase">
+           GoPro Hero 13 Black
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/topjoy-app-nyeremenyjatek">
+          <span class="uppercase">
+           Senheiser HD 450 BT fejhallgató
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj F1 belépőt!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/monster-nyeremenyjatek">
+          <span class="uppercase">
+           MotoGP magyar nagydíjra
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-x-lego-f1-nyeremenyjatek">
+          <span class="uppercase">
+           Páros belépő az F1 Magyar nagydíjra
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/regio-jatek-bburago-maisto-formula-1-nyeremenyjatek">
+          <span class="uppercase">
+           4 fős
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Ital
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/monster-nyeremenyjatek">
+          <span class="uppercase">
+           Monster
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mizo-coffee-selection-nyeremenyjatek">
+          <span class="uppercase">
+           Mizo Coffee Selection
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/burn-energiaital-nyeremenyjatek">
+          <span class="uppercase">
+           Burn
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/almdudler-nyeremenyjatek">
+          <span class="uppercase">
+           Almdudler
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/topjoy-app-nyeremenyjatek">
+          <span class="uppercase">
+           Topjoy App
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/gosser-nyeremenyjatek">
+          <span class="uppercase">
+           Gösser
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/frei-sparkling-coffee-nyeremenyjatek">
+          <span class="uppercase">
+           Frei Sparkling Coffee
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coca-cola-nyeremenyjatek-vendeglatohelyeken">
+          <span class="uppercase">
+           Coca-Cola (vendéglátóhelyeken)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/burn-nyeremenyjatek">
+          <span class="uppercase">
+           Burn
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/xixo-nyeremenyjatek">
+          <span class="uppercase">
+           XIXO
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/voslauer-nyeremenyjatek">
+          <span class="uppercase">
+           Vöslauer
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coors-nyeremenyjatek">
+          <span class="uppercase">
+           Coors
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dreher-nyeremenyjatek">
+          <span class="uppercase">
+           Dreher
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/soproni-nyeremenyjatek">
+          <span class="uppercase">
+           Soproni
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lipton-ice-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Lipton Ice Tea
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nescafe-dolce-gusto-nyeremenyjatek">
+          <span class="uppercase">
+           Nescafé Dolce Gusto
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tatratea-nyeremenyjatek">
+          <span class="uppercase">
+           Tatratea
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sierra-tequila-nyeremenyjatek">
+          <span class="uppercase">
+           Sierra Tequila
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/fuze-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Fuze Tea
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           Coca-Cola
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Különleges nyeremények
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/burger-king-nyeremenyjatek">
+          <span class="uppercase">
+           Valmar meet &amp; greet
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/voslauer-nyeremenyjatek">
+          <span class="uppercase">
+           Batz x Daalarna cipő
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dreher-nyeremenyjatek">
+          <span class="uppercase">
+           Dunai élményhajózás
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-korzo-nyeremenyjatek">
+          <span class="uppercase">
+           Családi jakuzzi
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/soproni-nyeremenyjatek">
+          <span class="uppercase">
+           1 millió Ft értékű buli
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dewalt-x-mclaren-nyeremenyjatek">
+          <span class="uppercase">
+           Formula-1 Abu-Dhabi Nagydíj
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj pénzt!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/e-sorsjegy-extra-nyeremenyjatek">
+          <span class="uppercase">
+           10 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/xixo-nyeremenyjatek">
+          <span class="uppercase">
+           10 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/magnum-nyeremenyjatek">
+          <span class="uppercase">
+           5 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tippmix-nyeremenyjatek">
+          <span class="uppercase">
+           10 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/simple-bit-nyeremenyjatek">
+          <span class="uppercase">
+           1 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sodastream-12-patroncsere-jatek">
+          <span class="uppercase">
+           1 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/jatekoskartya-nyeremenyjatek">
+          <span class="uppercase">
+           20 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/unilever-grill-globus-hellmanns-nyeremenyjatek">
+          <span class="uppercase">
+           2 000 000 Ft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/simons-burger-nyeremenyjatek">
+          <span class="uppercase">
+           10 000 000 Ft
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj háztartási gépet!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/fressnapf-purina-felix-nyeremenyjatek">
+          <span class="uppercase">
+           Rowenta robotporszívó
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/chimax-nyeremenyjatek">
+          <span class="uppercase">
+           Gázgrill, gömbgrill, asztali grill
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/almdudler-nyeremenyjatek">
+          <span class="uppercase">
+           Grillsütő, gömbgrill
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-coccolino-nyeremenyjatek">
+          <span class="uppercase">
+           Samsung AI mosógép
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cinema-city-nyeremenyjatek">
+          <span class="uppercase">
+           Philips OneBlade Pro 360
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-pick-friss-hus-nyeremenyjatek">
+          <span class="uppercase">
+           Faszenes grillsütő
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nescafe-dolce-gusto-nyeremenyjatek">
+          <span class="uppercase">
+           Rowenta robotporszívó
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/pottyos-nyeremenyjatek">
+          <span class="uppercase">
+           SMEG hűtőszekrény
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj tabletet!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/mizo-coffee-selection-nyeremenyjatek">
+          <span class="uppercase">
+           iPad
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj okosórát!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/tatratea-nyeremenyjatek">
+          <span class="uppercase">
+           Apple Watch SE
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj laptopot!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/shell-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           MacBook Air
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-pick-herz-nyeremenyjatek">
+          <span class="uppercase">
+           MacBook Air M4 13"
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-chio-nyeremenyjatek">
+          <span class="uppercase">
+           ASUS laptop
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj projektort!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/coop-chio-nyeremenyjatek">
+          <span class="uppercase">
+           Samsung projektor
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj airfryert!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/candy-huto-nyeremenyjatek">
+          <span class="uppercase">
+           Haier airfryer
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj koncertjegyet!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/rossmann-head-shoulders-old-spice-nyeremenyjatek">
+          <span class="uppercase">
+           100.000 Ft-os Budapest Park utalvány
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           Budapest Park VIP élmény
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/maltesers-mms-nyeremenyjatek">
+          <span class="uppercase">
+           Budapest Park voucher
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           Budapest Park 10 000 Ft értékű
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj robogót!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/coca-cola-nyeremenyjatek-vendeglatohelyeken">
+          <span class="uppercase">
+           VESPA robogó
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tisza-coop-frutti-italpor-nyeremenyjatek">
+          <span class="uppercase">
+           Mi Electric Scooter
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj belépőt!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/coca-cola-nyeremenyjatek-vendeglatohelyeken">
+          <span class="uppercase">
+           Aquaworld
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj rollert!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/burger-king-nyeremenyjatek">
+          <span class="uppercase">
+           XIAOMI elektromos roller
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coca-cola-nyeremenyjatek-vendeglatohelyeken">
+          <span class="uppercase">
+           Elektromos roller
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/plaza-nyeremenyjatek">
+          <span class="uppercase">
+           XIAOMI Electric Scooter
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/avena-gofit-nyeremenyjatek">
+          <span class="uppercase">
+           XIAOMI roller
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj fesztivál jegyet!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/aldi-lipton-ice-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget napijegy
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/burger-king-nyeremenyjatek">
+          <span class="uppercase">
+           STRAND fesztivál, SZIN fesztivál
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/burn-nyeremenyjatek">
+          <span class="uppercase">
+           2 fős, 4 napos SZIN belépő
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cinema-city-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget jegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dreher-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget jegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-korzo-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget napijegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lipton-ice-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget bérlet
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tatratea-nyeremenyjatek">
+          <span class="uppercase">
+           páros Sziget napijegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget VIP jegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/axe-nyeremenyjatek">
+          <span class="uppercase">
+           EFOTT, Strand, SZIN
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Üzletekhez kötődő
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/cba-delikat-rauch-mytea-nyeremenyjatek">
+          <span class="uppercase">
+           CBA Delikát - Rauch MyTea
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-lipton-ice-tea-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Lipton Ice Tea
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ecofamily-nyeremenyjatek">
+          <span class="uppercase">
+           Ecofamily
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-szentkiralyi-nyeremenyjatek">
+          <span class="uppercase">
+           Penny - Szentkirályi
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-martini-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Martini
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-gyori-edes-pilota-belvita-oreo-7days-dormi-milka-keksz-milka-croissant-korpovit-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan - Győri Édes, Pilóta, belVita, Oreo, 7Days, Dörmi, Milka keksz, Milka croissant, Korpovit
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-coccolino-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Coccolino
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-burn-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Burn
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-pg-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - P&amp;G
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/shell-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           Shell - Magnum
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-kinley-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - Kinley
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-x-lego-f1-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan x LEGO - F1 nyereményjáték
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-pick-herz-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - Pick, Herz
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-pick-friss-hus-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Pick Friss Hús
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-kartya-nyeremenyjatek">
+          <span class="uppercase">
+           Penny kártya (digitális)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-dab-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - DAB
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/rossmann-head-shoulders-old-spice-nyeremenyjatek">
+          <span class="uppercase">
+           Rossmann - Head &amp; Shoulders, Old Spice
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-air-wick-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Air Wick
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - Coca-Cola
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-maggi-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Maggi
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-gyori-edes-pilota-korpovit-belvita-oreo-milka-keksz-7days-milka-croissant-dormi-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - Győri Édes, Pilóta,  Korpovit, belVita, Oreo, Milka keksz, 7Days, Milka croissant, Dörmi
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-korzo-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan Korzó
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           Penny - Coca-Cola
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-domestos-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Domestos
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tisza-coop-frutti-italpor-nyeremenyjatek">
+          <span class="uppercase">
+           Tisza-Coop - Frutti italpor
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-american-tourister-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan (American Tourister)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-biotech-usa-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Biotech USA
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-chio-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - Chio
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coop-chio-nyeremenyjatek">
+          <span class="uppercase">
+           Coop - Chio
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-chio-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Chio
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/real-nyeremenyjatek-nyero-tizes">
+          <span class="uppercase">
+           Reál
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ecofamily-mastercard-nyeremenyjatek">
+          <span class="uppercase">
+           EcoFamily - Mastercard
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Élelmiszer
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/tuc-nyeremenyjatek">
+          <span class="uppercase">
+           TUC
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/zolafood-nyeremenyjatek">
+          <span class="uppercase">
+           ZolaFood
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/chimax-nyeremenyjatek">
+          <span class="uppercase">
+           Chimax
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/magnum-nyeremenyjatek">
+          <span class="uppercase">
+           Magnum
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/maltesers-mms-nyeremenyjatek">
+          <span class="uppercase">
+           M&amp;M's, Maltesers
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/avena-gofit-nyeremenyjatek">
+          <span class="uppercase">
+           Avena Gofit
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/pringles-nyeremenyjatek">
+          <span class="uppercase">
+           Pringles
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/pottyos-nyeremenyjatek">
+          <span class="uppercase">
+           Pöttyös
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nadudvari-grill-nyeremenyjatek">
+          <span class="uppercase">
+           Nádudvari grill
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/unilever-grill-globus-hellmanns-nyeremenyjatek">
+          <span class="uppercase">
+           Unilever grill (Globus, Hellmann's)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/milka-nyeremenyjatek">
+          <span class="uppercase">
+           Milka
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Pontgyűjtő
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/auchan-american-tourister-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan (American Tourister)
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj autót!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/omv-nyeremenyjatek">
+          <span class="uppercase">
+           Toyota C-HR
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cinema-city-nyeremenyjatek">
+          <span class="uppercase">
+           Hyundai i20
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/pottyos-nyeremenyjatek">
+          <span class="uppercase">
+           Vespa Primavera
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/fuze-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Ford Explorer
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/hotel-europa-fit-nyeremenyjatek">
+          <span class="uppercase">
+           BYD Dolphin Comfort
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Egyéb
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/fressnapf-purina-felix-nyeremenyjatek">
+          <span class="uppercase">
+           Fressnapf - Purina Felix
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/loctite-nyeremenyjatek">
+          <span class="uppercase">
+           Loctite
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/bodyselect-nyeremenyjatek">
+          <span class="uppercase">
+           Bodyselect
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-hell-nyeremenyjatek">
+          <span class="uppercase">
+           MOL Move- Hell
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/veradas-nyeremenyjatek">
+          <span class="uppercase">
+           Véradás
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/e-sorsjegy-extra-nyeremenyjatek">
+          <span class="uppercase">
+           E-sorsjegy Extra
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/supershop-nyeremenyjatek">
+          <span class="uppercase">
+           SuperShop
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/burger-king-nyeremenyjatek">
+          <span class="uppercase">
+           Burger King
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/candy-huto-nyeremenyjatek">
+          <span class="uppercase">
+           Candy hűtő
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/omv-nyeremenyjatek">
+          <span class="uppercase">
+           OMV
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nottevit-nyeremenyjatek">
+          <span class="uppercase">
+           Nottevit.hu
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-utazas-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI Utazás
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/plaza-nyeremenyjatek">
+          <span class="uppercase">
+           Plaza
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/regio-jatek-bburago-maisto-formula-1-nyeremenyjatek">
+          <span class="uppercase">
+           REGIO Játék - Bburago, Maisto Formula 1
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cinema-city-nyeremenyjatek">
+          <span class="uppercase">
+           Cinema City
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tippmix-nyeremenyjatek">
+          <span class="uppercase">
+           Tippmix
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/simple-bit-nyeremenyjatek">
+          <span class="uppercase">
+           Simple bit
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-kalifornia-nyeremenyjatek">
+          <span class="uppercase">
+           MOL Move Kalifornia
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/bahart-mastercard-nyeremenyjatek">
+          <span class="uppercase">
+           BAHART - Mastercard
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sodastream-12-patroncsere-jatek">
+          <span class="uppercase">
+           SodaStream 12. Patroncsere játék
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           MOL Move -  Magnum
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/jatekoskartya-nyeremenyjatek">
+          <span class="uppercase">
+           Játékoskártya
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/amore-di-napoli-amore-pasta-e-basta-nyeremenyjatek">
+          <span class="uppercase">
+           Amore di Napoli, Amore' - Pasta e Basta
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/hera-trinat-lazuran-nyeremenyjatek">
+          <span class="uppercase">
+           Héra, Trinát, Lazurán
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ibusz-nyeremenyjatek">
+          <span class="uppercase">
+           IBUSZ
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/duofix-sigma-geberit-nyeremenyjatek">
+          <span class="uppercase">
+           Duofix Sigma (Geberit)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dewalt-x-mclaren-nyeremenyjatek">
+          <span class="uppercase">
+           DEWALT x McLaren
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/foodora-red-bull-nyeremenyjatek">
+          <span class="uppercase">
+           foodora - Red Bull
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/hotel-europa-fit-nyeremenyjatek">
+          <span class="uppercase">
+           Hotel Európa Fit
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/art-hotel-nyeremenyjatek">
+          <span class="uppercase">
+           Art Hotel
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/simons-burger-nyeremenyjatek">
+          <span class="uppercase">
+           Simon’s Burger
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj mobilt!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/tesco-martini-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16e
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/topjoy-app-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16 Pro
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/xixo-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-pick-herz-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16 Pro
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-kalifornia-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16 Pro Max
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           iPhone 16 Pro
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj jegyet focimeccsre!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/spar-dab-nyeremenyjatek">
+          <span class="uppercase">
+           Dortmund
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-biotech-usa-nyeremenyjatek">
+          <span class="uppercase">
+           Barcelona meccs
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj TV-t!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/tisza-coop-frutti-italpor-nyeremenyjatek">
+          <span class="uppercase">
+           Samsung TV
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-chio-nyeremenyjatek">
+          <span class="uppercase">
+           Samsung TV
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj kerékpárt!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/aldi-maggi-nyeremenyjatek">
+          <span class="uppercase">
+           E-kerékpár
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/fuze-tea-nyeremenyjatek">
+          <span class="uppercase">
+           Neuzer kerékpár
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Kozmetikai és háztartási cikkek
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="/axe-nyeremenyjatek">
+          <span class="uppercase">
+           Axe
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Nyerj utazást!
+       </h1>
+       <ul class="category-list">
+        <li>
+         <a href="http://www.webnyeremeny.hu/link.php?id=1289" target="_blank">
+          <span class="uppercase">
+           Treehouses Noszvaj
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tuc-nyeremenyjatek">
+          <span class="uppercase">
+           Olaszország / Szlovénia
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mizo-coffee-selection-nyeremenyjatek">
+          <span class="uppercase">
+           Párizs
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/loctite-nyeremenyjatek">
+          <span class="uppercase">
+           Hotel Kempinski High Tatras
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/zolafood-nyeremenyjatek">
+          <span class="uppercase">
+           Zalakaros
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-szentkiralyi-nyeremenyjatek">
+          <span class="uppercase">
+           Kolping Family Resort
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-martini-nyeremenyjatek">
+          <span class="uppercase">
+           1 000 000 Ft értékű
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/veradas-nyeremenyjatek">
+          <span class="uppercase">
+           100 000 Ft értékű, Hévíz, Zalakaros, Hajdúszoboszló
+          </span>
+          <span class="theme-color">
+           (új)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/gosser-nyeremenyjatek">
+          <span class="uppercase">
+           Thaiföld, Noszvaj
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/candy-huto-nyeremenyjatek">
+          <span class="uppercase">
+           Olaszország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/nottevit-nyeremenyjatek">
+          <span class="uppercase">
+           Spanyolország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-utazas-nyeremenyjatek">
+          <span class="uppercase">
+           Stájerország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-pg-nyeremenyjatek">
+          <span class="uppercase">
+           Noszvaj
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/voslauer-nyeremenyjatek">
+          <span class="uppercase">
+           Balatoni vitorlázás
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-kinley-nyeremenyjatek">
+          <span class="uppercase">
+           Ushuaia
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/plaza-nyeremenyjatek">
+          <span class="uppercase">
+           Horvátországi nyaralás
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/cinema-city-nyeremenyjatek">
+          <span class="uppercase">
+           100 000 Ft értékű
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-pick-friss-hus-nyeremenyjatek">
+          <span class="uppercase">
+           1 000 000 Ft értékű
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-dab-nyeremenyjatek">
+          <span class="uppercase">
+           Dortmund
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coors-nyeremenyjatek">
+          <span class="uppercase">
+           Colorado
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-kalifornia-nyeremenyjatek">
+          <span class="uppercase">
+           Kalifornia
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/bahart-mastercard-nyeremenyjatek">
+          <span class="uppercase">
+           Hotel Azúr - Siófok
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-air-wick-nyeremenyjatek">
+          <span class="uppercase">
+           Noszvaj
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-domestos-nyeremenyjatek">
+          <span class="uppercase">
+           Disneyland Párizs
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tisza-coop-frutti-italpor-nyeremenyjatek">
+          <span class="uppercase">
+           Hajdúszoboszló - Silver Hotel
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sodastream-12-patroncsere-jatek">
+          <span class="uppercase">
+           Törökország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tatratea-nyeremenyjatek">
+          <span class="uppercase">
+           Szlovákia
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-biotech-usa-nyeremenyjatek">
+          <span class="uppercase">
+           Barcelona
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/avena-gofit-nyeremenyjatek">
+          <span class="uppercase">
+           Sziget hetijegy
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sierra-tequila-nyeremenyjatek">
+          <span class="uppercase">
+           1 millió Ft értékű
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/amore-di-napoli-amore-pasta-e-basta-nyeremenyjatek">
+          <span class="uppercase">
+           Nápoly
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/pottyos-nyeremenyjatek">
+          <span class="uppercase">
+           5 000 000 Ft értékű illetve Olaszország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ibusz-nyeremenyjatek">
+          <span class="uppercase">
+           Görögország
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/art-hotel-nyeremenyjatek">
+          <span class="uppercase">
+           1 millió Ft értékű
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/milka-nyeremenyjatek">
+          <span class="uppercase">
+           Los Angeles / Párizs / New York
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="category-box">
+      <div class="category-inner box bg-light">
+       <h1>
+        Sorsolás
+       </h1>
+       <h2>
+        Közelgő:
+       </h2>
+       <ul class="category-list">
+        <li>
+         <a href="/pick-nyeremenyjatek">
+          <span class="uppercase">
+           Pick
+          </span>
+          <span class="theme-color">
+           (07.08.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/auchan-jack-daniels-nyeremenyjatek">
+          <span class="uppercase">
+           Auchan - Jack Daniel's
+          </span>
+          <span class="theme-color">
+           (07.08.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/supershop-nyeremenyjatek-2025-06-30">
+          <span class="uppercase">
+           SuperShop
+          </span>
+          <span class="theme-color">
+           (07.10.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/sierra-tequila-nyeremenyjatek">
+          <span class="uppercase">
+           Sierra Tequila
+          </span>
+          <span class="theme-color">
+           (07.11.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-monster-nyeremenyjatek">
+          <span class="uppercase">
+           TESCO - Monster
+          </span>
+          <span class="theme-color">
+           (07.12.)
+          </span>
+         </a>
+        </li>
+       </ul>
+       <h2>
+        Közelmúltban sorsolt:
+       </h2>
+       <ul class="category-list">
+        <li>
+         <a href="/borsodi-nyeremenyjatek">
+          <span class="uppercase">
+           Borsodi
+          </span>
+          <span class="theme-color">
+           (07.04.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-jegkrem-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - jégkrém
+          </span>
+          <span class="theme-color">
+           (07.04.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mol-move-red-bull-nyeremenyjatek">
+          <span class="uppercase">
+           MOL Move - Red Bull
+          </span>
+          <span class="theme-color">
+           (07.04.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/coop-nyeremenyjatek">
+          <span class="uppercase">
+           Coop
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/gyori-edes-korpovit-dormi-pilota-nyeremenyjatek">
+          <span class="uppercase">
+           Győri Édes, Korpovit, Dörmi, Pilóta
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/master-good-csirke-parizsi-nyeremenyjatek">
+          <span class="uppercase">
+           Master Good Csirke párizsi
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/dm-garnier-nyeremenyjatek">
+          <span class="uppercase">
+           dm - Garnier
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-mizo-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - Mizo
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/ecofamily-pg-nyeremenyjatek">
+          <span class="uppercase">
+           EcoFamily - P&amp;G
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mionetto-nyeremenyjatek">
+          <span class="uppercase">
+           Mionetto
+          </span>
+          <span class="theme-color">
+           (07.03.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/fruttamax-bubble12-szorp-nyeremenyjatek">
+          <span class="uppercase">
+           FruttaMax Bubble12
+          </span>
+          <span class="theme-color">
+           (07.02.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/real-magnum-nyeremenyjatek">
+          <span class="uppercase">
+           Reál - Magnum
+          </span>
+          <span class="theme-color">
+           (07.02.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/spar-coca-cola-nyeremenyjatek">
+          <span class="uppercase">
+           SPAR - Coca-Cola
+          </span>
+          <span class="theme-color">
+           (07.02.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/tesco-coccolino-nyeremenyjatek-2025-06-30">
+          <span class="uppercase">
+           TESCO - Coccolino
+          </span>
+          <span class="theme-color">
+           (07.02.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/bamba-marha-nyeremenyjatek">
+          <span class="uppercase">
+           Bamba Marha
+          </span>
+          <span class="theme-color">
+           (07.02.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/foodora-fagyi-nyeremenyjatek">
+          <span class="uppercase">
+           foodora - fagyi
+          </span>
+          <span class="theme-color">
+           (07.01.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lovi-nyeremenyjatek">
+          <span class="uppercase">
+           Lovi
+          </span>
+          <span class="theme-color">
+           (07.01.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lego-f1-nyeremenyjatek">
+          <span class="uppercase">
+           LEGO - F1
+          </span>
+          <span class="theme-color">
+           (07.01.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/oreo-nyeremenyjatek">
+          <span class="uppercase">
+           Oreo
+          </span>
+          <span class="theme-color">
+           (06.30.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/penny-milka-gyori-edes-korpovit-pilota-tuc-7-days-oreo-dormi-sport-nyeremenyjatek">
+          <span class="uppercase">
+           Penny - Milka, Győri édes, Korpovit, Pilóta, TUC, 7 Days, Oreo, Dörmi, Sport
+          </span>
+          <span class="theme-color">
+           (06.26.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-nestle-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - Nestlé
+          </span>
+          <span class="theme-color">
+           (06.26.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-hell-ice-coffee-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - Hell Ice Coffee
+          </span>
+          <span class="theme-color">
+           (06.26.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-szentkiralyi-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - Szentkirályi
+          </span>
+          <span class="theme-color">
+           (06.25.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/aldi-lays-nyeremenyjatek">
+          <span class="uppercase">
+           ALDI - Lay's
+          </span>
+          <span class="theme-color">
+           (06.25.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/mpl-nyeremenyjatek">
+          <span class="uppercase">
+           MPL
+          </span>
+          <span class="theme-color">
+           (06.24.)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/lidl-valdor-nyeremenyjatek">
+          <span class="uppercase">
+           Lidl - panírozott Valdor
+          </span>
+          <span class="theme-color">
+           (06.24.)
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <script>
+     initMagicGrid('#upper-category-container');
+    </script>
+   </main>
+   <aside>
+    <div class="row box bg-dark" id="forum-preview">
+     <div class="forum-preview-head row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtemak.php" target="_blank">
+        Legfrissebb fórum hozzászólások
+       </a>
+      </h1>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=10" target="_blank">
+        Nyertesek
+       </a>
+      </h1>
+      <b>
+       kincs
+      </b>
+      <div class="comment">
+       XIXO can párna
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=227" target="_blank">
+        Sürgős segítségkérés
+       </a>
+      </h1>
+      <b>
+       Zsuzsa Nr.1.
+      </b>
+      <div class="comment">
+       Szókereső 14.száma megjelent már?
+       <br/>
+       Füles közös pályázatához kellene, de több helyen nem kapták
+       <br/>
+       meg az újságosok.
+       <br/>
+       Szeretném kérni, ha megvan -
+       <br/>
+       kifotózva átküldené valaki a
+       <br/>
+       7. oldalon található rejtvényt?
+       <br/>
+       Előre is köszönöm😊
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=148" target="_blank">
+        Lottó, Keno, Luxor játék akciók
+       </a>
+      </h1>
+      <b>
+       Zsuzsa Nr.1.
+      </b>
+      <div class="comment">
+       EuroJackpot 28. játékhét (keddi)
+       <br/>
+       21,27,29,34,43
+       <br/>
+       6, 10
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=227" target="_blank">
+        Sürgős segítségkérés
+       </a>
+      </h1>
+      <b>
+       benudori
+      </b>
+      <div class="comment">
+       anyoka
+       <br/>
+       Nem tudok írni neked.
+       <br/>
+       Ha még aktuális, írj
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       pieceofluck
+      </b>
+      <div class="comment">
+       Anbuci
+       <br/>
+       Már majdnem el is feledkeztem arról a játékról.
+       <br/>
+       Sajnos én sem kaptam üzit maciról. 😢
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       sünkutya
+      </b>
+      <div class="comment">
+       Unilever-Coop vegyi kaparós játékon nyert csomagot vár még valaki?
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       Anbuci
+      </b>
+      <div class="comment">
+       Köszönöm szépen a válaszokat..
+       <br/>
+       😔
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=626" target="_blank">
+        Nem csere-bere, hanem vásárlás
+       </a>
+      </h1>
+      <b>
+       anyoka
+      </b>
+      <div class="comment">
+       STRAND fesztivál jegy kellene valakinek ? (Választható nap!)
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=10" target="_blank">
+        Nyertesek
+       </a>
+      </h1>
+      <b>
+       Puzsi10
+      </b>
+      <div class="comment">
+       Magnum, Aldi uti😊
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       Vágási 2.0
+      </b>
+      <div class="comment">
+       Nekem is ezt küldték.
+       <br/>
+       <br/>
+       Majd nyilván 3D-nyomtatóval kell kinyomtatni...
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       sada
+      </b>
+      <div class="comment">
+       e-mailben macit?
+       <img alt=":O" src="https://forum.webnyeremeny.hu/images/forumfejek/4.gif" title=":O"/>
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       WeghA
+      </b>
+      <div class="comment">
+       Igen. Ezt küldték sms-be.
+       <br/>
+       Gratulálunk, Coccolino macit nyert! A blokkot ellenoriztük, hamarosan e-mailben küldjük a nyereményt. Üdv: Unilever Mo. Kft.
+      </div>
+     </div>
+    </div>
+    <div class="box bg-dark row">
+     <div class="login-form">
+      <h2>
+       Bejelentkezés a fórumba
+      </h2>
+      <form action="https://forum.webnyeremeny.hu/index.php" method="POST" name="login" target="_blank">
+       <input name="login" type="hidden" value="1"/>
+       <input name="ugras" type="hidden" value="forumtemak.php"/>
+       <div class="small-row text-right">
+        <label class="font-small">
+         Nick:
+         <input autocomplete="username" name="nick" required="" type="text">
+         </input>
+        </label>
+       </div>
+       <div class="small-row text-right">
+        <label class="font-small">
+         Jelszó:
+         <input autocomplete="current-password" name="pwd" required="" type="password">
+         </input>
+        </label>
+       </div>
+       <div class="row text-right">
+        <button type="submit">
+         Bejelentkezés
+        </button>
+       </div>
+      </form>
+      <hr/>
+      <div class="font-small flex">
+       <div class="flex-1">
+        <a href="https://forum.webnyeremeny.hu/regisztracio.php" target="_blank">
+         Regisztráció
+        </a>
+       </div>
+       <div>
+        <a href="https://forum.webnyeremeny.hu/jelszoemlekezteto.php" target="_blank">
+         Elfelejtett jelszó
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row box bg-dark">
+     <script>
+      document.addEventListener('DOMContentLoaded', onLoad);
+
+	function onLoad() {
+		const now = new Date();
+		const themeColor = getComputedStyle(document.documentElement).getPropertyValue('--theme-color-1');
+		const firstOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
+		const calendarEl = document.getElementById('calendar');
+		const calendarData = {
+			locale: 'hu',
+			initialView: 'dayGridMonth',
+			height: 'auto',
+			expandRows: true,
+			validRange: {
+				start: dateToSQLDate(firstOfMonth)
+			},
+			eventClick
+		};
+		const eventSource = {
+			events: [
+								{
+					title: '1',
+					start: '2025-10-31'
+				},
+								{
+					title: '3',
+					start: '2025-12-31'
+				},
+								{
+					title: '15',
+					start: '2025-07-31'
+				},
+								{
+					title: '2',
+					start: '2025-05-05'
+				},
+								{
+					title: '4',
+					start: '2025-05-04'
+				},
+								{
+					title: '1',
+					start: '2025-12-14'
+				},
+								{
+					title: '1',
+					start: '2025-12-21'
+				},
+								{
+					title: '3',
+					start: '2025-05-25'
+				},
+								{
+					title: '14',
+					start: '2025-05-31'
+				},
+								{
+					title: '3',
+					start: '2025-05-30'
+				},
+								{
+					title: '8',
+					start: '2025-06-04'
+				},
+								{
+					title: '5',
+					start: '2025-05-11'
+				},
+								{
+					title: '2',
+					start: '2025-05-15'
+				},
+								{
+					title: '1',
+					start: '2025-05-12'
+				},
+								{
+					title: '2',
+					start: '2025-05-07'
+				},
+								{
+					title: '1',
+					start: '2025-05-06'
+				},
+								{
+					title: '4',
+					start: '2025-09-30'
+				},
+								{
+					title: '6',
+					start: '2025-05-28'
+				},
+								{
+					title: '2',
+					start: '2025-06-01'
+				},
+								{
+					title: '1',
+					start: '2025-05-10'
+				},
+								{
+					title: '12',
+					start: '2025-06-30'
+				},
+								{
+					title: '4',
+					start: '2025-06-15'
+				},
+								{
+					title: '1',
+					start: '2025-05-29'
+				},
+								{
+					title: '3',
+					start: '2025-09-14'
+				},
+								{
+					title: '8',
+					start: '2025-07-02'
+				},
+								{
+					title: '1',
+					start: '2025-05-21'
+				},
+								{
+					title: '1',
+					start: '2025-05-14'
+				},
+								{
+					title: '2',
+					start: '2025-08-05'
+				},
+								{
+					title: '8',
+					start: '2025-06-29'
+				},
+								{
+					title: '1',
+					start: '2025-07-06'
+				},
+								{
+					title: '3',
+					start: '2025-08-15'
+				},
+								{
+					title: '7',
+					start: '2025-06-18'
+				},
+								{
+					title: '11',
+					start: '2025-08-31'
+				},
+								{
+					title: '1',
+					start: '2025-06-03'
+				},
+								{
+					title: '1',
+					start: '2025-09-15'
+				},
+								{
+					title: '1',
+					start: '2025-07-15'
+				},
+								{
+					title: '1',
+					start: '2025-05-17'
+				},
+								{
+					title: '2',
+					start: '2025-06-22'
+				},
+								{
+					title: '4',
+					start: '2025-06-14'
+				},
+								{
+					title: '3',
+					start: '2025-06-11'
+				},
+								{
+					title: '1',
+					start: '2025-06-24'
+				},
+								{
+					title: '5',
+					start: '2025-06-25'
+				},
+								{
+					title: '1',
+					start: '2025-07-09'
+				},
+								{
+					title: '5',
+					start: '2025-07-27'
+				},
+								{
+					title: '1',
+					start: '2025-09-02'
+				},
+								{
+					title: '4',
+					start: '2025-07-13'
+				},
+								{
+					title: '1',
+					start: '2025-07-25'
+				},
+								{
+					title: '2',
+					start: '2025-07-23'
+				},
+								{
+					title: '2',
+					start: '2025-08-25'
+				},
+								{
+					title: '1',
+					start: '2025-08-24'
+				},
+								{
+					title: '1',
+					start: '2025-07-12'
+				},
+								{
+					title: '8',
+					start: '2025-07-16'
+				},
+								{
+					title: '1',
+					start: '2025-07-10'
+				},
+								{
+					title: '2',
+					start: '2025-08-06'
+				},
+								{
+					title: '6',
+					start: '2025-07-30'
+				},
+								{
+					title: '2',
+					start: '2025-07-20'
+				},
+								{
+					title: '2',
+					start: '2025-08-03'
+				},
+								{
+					title: '1',
+					start: '2025-07-17'
+				},
+								{
+					title: '1',
+					start: '2025-07-22'
+				},
+								{
+					title: '1',
+					start: '2025-08-17'
+				},
+								{
+					title: '2',
+					start: '2025-08-10'
+				},
+								{
+					title: '1',
+					start: '2025-09-03'
+				},
+								{
+					title: '1',
+					start: '2025-07-29'
+				},
+								{
+					title: '1',
+					start: '2025-08-16'
+				},
+								{
+					title: '1',
+					start: '2025-08-08'
+				},
+								{
+					title: '1',
+					start: '2025-08-11'
+				},
+							],
+			display: 'background',
+			backgroundColor: themeColor,
+		};
+		const calendar = new FullCalendar.Calendar(calendarEl, calendarData);
+
+		calendar.render();
+		calendar.addEventSource(eventSource);
+	}
+	function eventClick(info) {
+		const date = dateToSQLDate(info.event.start)
+		location.href = '/ezen-a-napon/' + date;
+	}
+	function dateToSQLDate(date) {
+		return date.toLocaleString("sv-SE").split(' ')[0];
+	}
+     </script>
+     <div id="calendar">
+     </div>
+    </div>
+   </aside>
+  </div>
+  <footer class="bg-dark">
+   <div class="container">
+    <div class="flex">
+     <nav class="flex-1 small-row">
+      <a href="/impresszum">
+       Impresszum
+      </a>
+      |
+      <a href="/mediaajanlat">
+       Médiajánlat
+      </a>
+     </nav>
+     <nav class="small-row">
+      <a href="/nyeremenyjatekok">
+       Aktuális nyereményjátékok
+      </a>
+      |
+      <a href="/lejart-nyeremenyjatekok">
+       Lejárt nyereményjátékok
+      </a>
+      |
+      <a href="/feed" target="_blank">
+       RSS
+      </a>
+     </nav>
+    </div>
+    <div class="text-center">
+    </div>
+   </div>
+  </footer>
+  <script>
+   const remote_api = 'https://admin.nyeremenyjatekkozpont.hu/api/';
+		const VAPID_public_key = 'BNlbY7PlbdUWVLWRRando9bKICDksV-fSbinAhQCZPCcZMTw_KbkvuOdx8GlPiV7h3Ul_Ih9Ng1VolpGLo_G5B8';
+  </script>
+  <script>
+   if(!'serviceWorker' in navigator || !'PushManager' in window || window.safari) {
+			document.querySelector('.notification').style.visibility = 'hidden';
+		} else {
+			const script = document.createElement('script');
+			script.src = "/js/enable-push.js?id=ae972b17e2b6efbe5bec";
+			document.body.appendChild(script);
+		}
+  </script>
+ </body>
+</html>
