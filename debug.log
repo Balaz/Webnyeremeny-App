@@ -1,3 +1,1 @@
-[ INFO   ] 23:49:46 - main.py              {             <module>(): 69  >> __Starting the App__
-[ DEBUG  ] 23:49:46 - connectionpool.py    {            _new_conn(): 1049 >> Starting new HTTPS connection (1): www.webnyeremeny.hu:443
-[ DEBUG  ] 23:49:47 - connectionpool.py    {        _make_request(): 544 >> https://www.webnyeremeny.hu:443 "GET / HTTP/1.1" 200 None
+[ INFO   ] 19:27:56 - main.py              {             <module>(): 85  >> __Starting the App__
