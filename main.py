@@ -1,8 +1,14 @@
+# ✅ Set resolution BEFORE importing Kivy
+from kivy.config import Config
+Config.set('graphics', 'width', '360')
+Config.set('graphics', 'height', '640')
+
 from kivy.metrics import dp
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.scrollview import ScrollView
 from kivy.uix.screenmanager import ScreenManager
+from kivy.core.window import Window
 
 from kivymd.app import MDApp
 from kivymd.uix.screen import MDScreen
@@ -31,14 +37,12 @@ class MainScreen(MDScreen):
         super().__init__(**kwargs)
         root = BoxLayout(orientation="vertical")
 
-        # Top App Bar
         appbar = MDTopAppBar(
             MDTopAppBarTitle(text="Webnyeremény"),
             type="small",
         )
         root.add_widget(appbar)
 
-        # Center bubble
         content = FloatLayout()
         bubble = MDCard(
             size_hint=(None, None),
@@ -66,7 +70,6 @@ class StoresScreen(MDScreen):
 
         root = BoxLayout(orientation="vertical")
 
-        # Top App Bar with back button
         appbar = MDTopAppBar(
             MDTopAppBarLeadingButtonContainer(
                 MDActionTopAppBarButton(
@@ -82,15 +85,18 @@ class StoresScreen(MDScreen):
         scroll = ScrollView()
         flow = MDStackLayout(
             adaptive_height=True,
+            size_hint_y=None,  # ✅ Enable vertical layout growth
             padding=dp(10),
             spacing=dp(10),
         )
+        flow.bind(minimum_height=flow.setter("height"))  # ✅ Make layout expand with content
 
         for store in sorted(self.stores_df["stores"]):
+            card_size = self.get_card_size()
             card = MDCard(
                 size_hint=(None, None),
-                size=(dp(120), dp(120)),
-                radius=[dp(60)] * 4,
+                size=(card_size, card_size),
+                radius=[card_size / 2] * 4,
                 ripple_behavior=True,
                 elevation=6,
                 orientation="vertical",
@@ -99,7 +105,12 @@ class StoresScreen(MDScreen):
             if not os.path.exists(logo_path):
                 logo_path = "assets/logos/placeholder.png"
             card.add_widget(FitImage(source=logo_path, size_hint=(1, 0.7)))
-            card.add_widget(MDLabel(text=store, halign="center", size_hint=(1, 0.3)))
+            card.add_widget(MDLabel(
+                text=store,
+                halign="center",
+                size_hint=(1, 0.3),
+                font_size=card_size * 0.15  # ✅ Scales text size
+            ))
             card.bind(on_release=lambda _, s=store: self._open_store(s))
             flow.add_widget(card)
 
@@ -112,13 +123,15 @@ class StoresScreen(MDScreen):
         urls_screen.update_urls(store_name, self.stores_df)
         self.manager.current = "urls"
 
+    def get_card_size(self):
+        return Window.width * 0.42  # ✅ Responsive card size
+
 
 class URLsScreen(MDScreen):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         root = BoxLayout(orientation="vertical")
 
-        # Dynamic title for App Bar
         self.title_label = MDTopAppBarTitle(text="")
 
         appbar = MDTopAppBar(
@@ -136,9 +149,11 @@ class URLsScreen(MDScreen):
         self.scroll = ScrollView()
         self.flow = MDStackLayout(
             adaptive_height=True,
+            size_hint_y=None,
             padding=dp(10),
             spacing=dp(10),
         )
+        self.flow.bind(minimum_height=self.flow.setter("height"))
         self.scroll.add_widget(self.flow)
         root.add_widget(self.scroll)
         self.add_widget(root)
@@ -159,18 +174,19 @@ class URLsScreen(MDScreen):
             )
             return
 
+        card_size = Window.width * 0.42
         for url in urls_list:
+            label_text = url.strip("/").replace("-", " ").capitalize()
             card = MDCard(
                 size_hint=(None, None),
-                size=(dp(120), dp(120)),
-                radius=[dp(60)] * 4,
+                size=(card_size, card_size),
+                radius=[card_size / 2] * 4,
                 ripple_behavior=True,
                 elevation=6,
                 orientation="vertical",
             )
-            label_text = url.strip("/").replace("-", " ").capitalize()
             card.add_widget(
-                MDLabel(text=label_text, halign="center", valign="middle")
+                MDLabel(text=label_text, halign="center", valign="middle", font_size=card_size * 0.13)
             )
             card.bind(on_release=lambda _, u=url: webbrowser.open(BASE_URL + u))
             self.flow.add_widget(card)
