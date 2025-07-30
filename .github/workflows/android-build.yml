@@ -14,11 +14,20 @@ jobs:
     env:
       ANDROID_API_LEVEL: 27
       ANDROID_BUILD_TOOLS_VERSION: "34.0.0"
-      # Use NDK r25b (25.2.9519653) instead of 23.x
       ANDROID_NDK_PACKAGE: "ndk;25.2.9519653"
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Install system build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            autoconf \
+            automake \
+            libtool \
+            pkg-config \
+            gperf
 
       - name: Set up Python
         uses: actions/setup-python@v4
