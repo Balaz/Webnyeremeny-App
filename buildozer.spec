@@ -36,3 +36,14 @@ android.archs                = armeabi-v7a, arm64-v8a
 
 # (bool) Automatically accept Android SDK licenses
 android.accept_sdk_licenses  = True
+
+# -------------------------------------------------------------------
+# Tell Buildozer to use the SDK/NDK you installed in CI instead of
+# staging its own copy under ~/.buildozer/android/…
+# -------------------------------------------------------------------
+
+# (str) Absolute path to your Android SDK (matches ANDROID_SDK_ROOT in CI)
+android.sdk_path             = /home/runner/android-sdk
+
+# (str) Absolute path to your Android NDK (matches sdkmanager install)
+android.ndk_path             = /home/runner/android-sdk/ndk/23.1.7779620
