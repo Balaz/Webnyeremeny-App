@@ -1,4 +1,4 @@
-name: → Build Android Studio SDK
+name: Build Android Studio SDK
 
 on:
   push:
@@ -24,28 +24,31 @@ jobs:
       - name: Install Buildozer & Cython
         run: |
           pip3 install --upgrade pip
-          pip3 install buildozer cython
+          pip3 install --user buildozer cython
+      - name: Add pip user base to PATH
+        run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
       - name: Install Android SDK Tools
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
         run: |
-          mkdir -p $ANDROID_SDK_ROOT
-          # install cmdline-tools, platform-tools, build-tools & an API level
+          mkdir -p $ANDROID_SDK_ROOT/cmdline-tools/latest
           yes | sdkmanager --sdk_root=$ANDROID_SDK_ROOT --install "cmdline-tools;latest" \
-                                               "platform-tools" \
-                                               "build-tools;31.0.0" \
-                                               "platforms;android-31"
+                                                       "platform-tools" \
+                                                       "build-tools;31.0.0" \
+                                                       "platforms;android-31"
+      - name: Add SDK tools to PATH
+        run: echo "${{ runner.tool_cache }}/android-sdk/cmdline-tools/latest/bin" >> $GITHUB_PATH
 
-      - name: Run Buildozer to generate Android Studio project
+      - name: Generate Android Studio project
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
           ANDROID_NDK_HOME: ${{ runner.tool_cache }}/android-sdk/ndk/23.1.7779620
         run: |
-          buildozer android debug android_new  # ‘android_new’ produces the gradle project
+          buildozer android debug
 
       - name: Upload Android Studio project
         uses: actions/upload-artifact@v4
         with:
           name: android-studio-project
-          path: ./.buildozer/android/platform/android-*/build  # adjust to the generated gradle folder
+          path: ./.buildozer/android/platform/android-*/build
