@@ -9,7 +9,6 @@ jobs:
   export-android-studio-project:
     runs-on: ubuntu-latest
     env:
-      # Use the runner’s tool cache directory at runtime
       ANDROID_SDK_ROOT: $RUNNER_TOOL_CACHE/android-sdk
       ANDROID_HOME:     $RUNNER_TOOL_CACHE/android-sdk
 
@@ -31,17 +30,21 @@ jobs:
       - name: Install Android SDK command-line tools
         run: |
           mkdir -p $ANDROID_SDK_ROOT/cmdline-tools
-          curl -sSfL https://dl.google.com/android/repository/commandlinetools-linux-13114758_latest.zip -o cmdline-tools.zip
+          curl -sSfL https://dl.google.com/android/repository/commandlinetools-linux-13114758_latest.zip \
+            -o cmdline-tools.zip
           unzip -q cmdline-tools.zip -d $ANDROID_SDK_ROOT/cmdline-tools
           mv $ANDROID_SDK_ROOT/cmdline-tools/cmdline-tools $ANDROID_SDK_ROOT/cmdline-tools/latest
           rm cmdline-tools.zip
 
+      - name: Add Android SDK tools to PATH
+        # so that sdkmanager & adb are found
+        run: |
+          echo "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin" >> $GITHUB_PATH
+          echo "$ANDROID_SDK_ROOT/platform-tools" >> $GITHUB_PATH
+
       - name: Configure Android SDK & accept licenses
         run: |
-          # Ensure sdkmanager can write license files
           mkdir -p ~/.android && touch ~/.android/repositories.cfg
-
-          # Accept all SDK licenses before installing packages
           yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
 
       - name: Install Android SDK packages
