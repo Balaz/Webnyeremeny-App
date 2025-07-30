@@ -14,7 +14,8 @@ jobs:
     env:
       ANDROID_API_LEVEL: 27
       ANDROID_BUILD_TOOLS_VERSION: "34.0.0"
-      ANDROID_NDK_PACKAGE: "ndk;23.1.7779620"
+      # Use NDK r25b (25.2.9519653) instead of 23.x
+      ANDROID_NDK_PACKAGE: "ndk;25.2.9519653"
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -35,7 +36,7 @@ jobs:
       - name: Create legacy tools/bin SDKManager shim
         run: |
           mkdir -p $ANDROID_SDK_ROOT/tools/bin
-          ln -s $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager $ANDROID_SDK_ROOT/tools/bin/sdkmanager
+          ln -sf $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager $ANDROID_SDK_ROOT/tools/bin/sdkmanager
 
       - name: Install Android platforms, build-tools & NDK
         run: |
