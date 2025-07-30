@@ -30,7 +30,16 @@ jobs:
             pkg-config \
             gperf \
             m4 \
-            autoconf-archive
+            autoconf-archive \
+            libbz2-dev \
+            libdb-dev \
+            libgdbm-dev \
+            liblzma-dev \
+            tk-dev \
+            uuid-dev \
+            libnsl-dev \
+            libreadline-dev
+
 
       - name: Set up Python
         uses: actions/setup-python@v4
