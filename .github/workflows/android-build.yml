@@ -28,22 +28,17 @@ jobs:
       - name: Add pip user base to PATH
         run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
-      - name: Install Android SDK Tools
-        env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-        run: |
-          mkdir -p $ANDROID_SDK_ROOT/cmdline-tools/latest
-          yes | sdkmanager --sdk_root=$ANDROID_SDK_ROOT --install "cmdline-tools;latest" \
-                                                       "platform-tools" \
-                                                       "build-tools;31.0.0" \
-                                                       "platforms;android-31"
-      - name: Add SDK tools to PATH
-        run: echo "${{ runner.tool_cache }}/android-sdk/cmdline-tools/latest/bin" >> $GITHUB_PATH
+      - name: Set up Android SDK & NDK
+        uses: google-github-actions/setup-android@v1
+        with:
+          api-level: 31
+          build-tools: '31.0.0'
+          ndk: '23.1.7779620'
 
       - name: Generate Android Studio project
         env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-          ANDROID_NDK_HOME: ${{ runner.tool_cache }}/android-sdk/ndk/23.1.7779620
+          ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+          ANDROID_NDK_HOME: ${{ env.ANDROID_NDK_HOME }}
         run: |
           buildozer android debug
 
