@@ -32,6 +32,11 @@ jobs:
       - name: Install Android SDK tools
         uses: malinskiy/action-android/install-sdk@release/0.1.7
 
+      - name: Create legacy tools/bin SDKManager shim
+        run: |
+          mkdir -p $ANDROID_SDK_ROOT/tools/bin
+          ln -s $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager $ANDROID_SDK_ROOT/tools/bin/sdkmanager
+
       - name: Install Android platforms, build-tools & NDK
         run: |
           sdkmanager "platform-tools" \
