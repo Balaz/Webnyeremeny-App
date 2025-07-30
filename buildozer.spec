@@ -17,6 +17,9 @@ source.dir           = .
 # (str) Python entry point, relative to source.dir
 entrypoint           = main.py
 
+# (str) Application version
+version              = 0.1.0
+
 # (list) Permissions
 android.permissions  = INTERNET, WRITE_EXTERNAL_STORAGE
 # (list) Python modules to include in the APK
