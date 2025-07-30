@@ -2,7 +2,8 @@ name: Build Android Studio SDK
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   export-android-studio-project:
@@ -16,7 +17,7 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Install system deps
+      - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y python3-pip python3-setuptools git zip unzip build-essential
@@ -28,12 +29,22 @@ jobs:
       - name: Add pip user base to PATH
         run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Download Android command-line tools
+        env:
+          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+        run: |
+          mkdir -p $ANDROID_SDK_ROOT
+          curl -sSfL https://dl.google.com/android/repository/commandlinetools-linux-9477382_latest.zip \
+            -o cmdline-tools.zip
+          unzip -q cmdline-tools.zip -d $ANDROID_SDK_ROOT/cmdline-tools
+          mv $ANDROID_SDK_ROOT/cmdline-tools/cmdline-tools \
+             $ANDROID_SDK_ROOT/cmdline-tools/latest
+          rm cmdline-tools.zip
 
-    # … after android-actions/setup-android@v3 and installing p4a deps …
+      - name: Add sdkmanager to PATH
+        run: echo "${{ runner.tool_cache }}/android-sdk/cmdline-tools/latest/bin" >> $GITHUB_PATH
 
-      - name: Install Android platform-tools, build-tools & platforms
+      - name: Install Android platforms & build-tools
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
         run: |
@@ -53,7 +64,6 @@ jobs:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
           ANDROID_HOME:     ${{ runner.tool_cache }}/android-sdk
         run: buildozer android debug
-
 
       - name: Upload Android Studio project
         uses: actions/upload-artifact@v4
