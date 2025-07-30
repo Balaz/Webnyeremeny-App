@@ -45,7 +45,7 @@ jobs:
           buildozer android debug android_new  # ‘android_new’ produces the gradle project
 
       - name: Upload Android Studio project
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: android-studio-project
           path: ./.buildozer/android/platform/android-*/build  # adjust to the generated gradle folder
