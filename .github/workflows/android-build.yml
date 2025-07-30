@@ -14,7 +14,7 @@ jobs:
     env:
       ANDROID_API_LEVEL: 27
       ANDROID_BUILD_TOOLS_VERSION: "34.0.0"
-      ANDROID_NDK_VERSION: "23b"
+      ANDROID_NDK_PACKAGE: "ndk;23.1.7779620"
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -29,16 +29,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install buildozer==1.5.0 cython
 
-      - name: Set up Android SDK
-        uses: malinskiy/action-android@v2
-        with:
-          api-level: ${{ env.ANDROID_API_LEVEL }}
-          build-tools: ${{ env.ANDROID_BUILD_TOOLS_VERSION }}
-          ndk: ${{ env.ANDROID_NDK_VERSION }}
+      - name: Install Android SDK tools
+        uses: malinskiy/action-android/install-sdk@release/0.1.7
+
+      - name: Install Android platforms, build-tools & NDK
+        run: |
+          sdkmanager "platform-tools" \
+                     "platforms;android-${{ env.ANDROID_API_LEVEL }}" \
+                     "build-tools;${{ env.ANDROID_BUILD_TOOLS_VERSION }}" \
+                     "${{ env.ANDROID_NDK_PACKAGE }}"
 
       - name: Accept Android SDK licenses
         run: |
-          yes | "$ANDROID_HOME/tools/bin/sdkmanager" --licenses
+          yes | sdkmanager --licenses
 
       - name: Build APK
         run: |
