@@ -26,8 +26,11 @@ jobs:
             autoconf \
             automake \
             libtool \
+            libtool-bin \
             pkg-config \
-            gperf
+            gperf \
+            m4 \
+            autoconf-archive
 
       - name: Set up Python
         uses: actions/setup-python@v4
