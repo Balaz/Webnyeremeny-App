@@ -8,46 +8,42 @@ on:
 jobs:
   export-android-studio-project:
     runs-on: ubuntu-latest
+    env:
+      ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+      ANDROID_HOME:     ${{ runner.tool_cache }}/android-sdk
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up JDK 17
         uses: actions/setup-java@v3
         with:
-          distribution: 'temurin'
+          distribution: temurin
           java-version: '17'
 
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y python3-pip python3-setuptools git zip unzip build-essential
+          sudo apt-get install -y python3-pip python3-setuptools unzip curl
 
-      - name: Install Buildozer & Cython
+      - name: Install Android SDK command-line tools
         run: |
-          pip3 install --upgrade pip
-          pip3 install --user buildozer cython
-      - name: Add pip user base to PATH
-        run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
-
-      - name: Download Android command-line tools
-        env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-        run: |
-          mkdir -p $ANDROID_SDK_ROOT
-          curl -sSfL https://dl.google.com/android/repository/commandlinetools-linux-13114758_latest.zip \
-            -o cmdline-tools.zip
+          mkdir -p $ANDROID_SDK_ROOT/cmdline-tools
+          curl -sSfL https://dl.google.com/android/repository/commandlinetools-linux-13114758_latest.zip -o cmdline-tools.zip
           unzip -q cmdline-tools.zip -d $ANDROID_SDK_ROOT/cmdline-tools
-          mv $ANDROID_SDK_ROOT/cmdline-tools/cmdline-tools \
-            $ANDROID_SDK_ROOT/cmdline-tools/latest
+          mv $ANDROID_SDK_ROOT/cmdline-tools/cmdline-tools $ANDROID_SDK_ROOT/cmdline-tools/latest
           rm cmdline-tools.zip
 
-      - name: Add sdkmanager to PATH
-        run: echo "${{ runner.tool_cache }}/android-sdk/cmdline-tools/latest/bin" >> $GITHUB_PATH
-        
-      # 1) Install platform-tools, build-tools 31 & 36, and API 31 into your SDK
-      - name: Install Android SDK components
-        env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+      - name: Configure Android SDK & accept licenses
+        run: |
+          # Ensure sdkmanager can write license files
+          mkdir -p ~/.android && touch ~/.android/repositories.cfg
+
+          # Accept all Android SDK licenses before installing any packages
+          yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
+
+      - name: Install Android SDK packages
         run: |
           sdkmanager --sdk_root="$ANDROID_SDK_ROOT" \
             "platform-tools" \
@@ -55,24 +51,10 @@ jobs:
             "build-tools;36.0.0" \
             "platforms;android-31"
 
-      # 2) Accept every SDK license (including 36.0.0’s)
-      - name: Accept all Android SDK licenses
-        env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-        run: yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
-
-      # 3) Symlink *that* SDK into Buildozer’s sandbox
-      - name: Point Buildozer at the pre-installed SDK
-        run: |
-          mkdir -p .buildozer/android/platform
-          ln -s "${{ runner.tool_cache }}/android-sdk" \
-                .buildozer/android/platform/android-sdk
-
-      # 4) Finally, generate the Android Studio project
+      # -----------------------------------------------
+      # Build the Android Studio project via Buildozer
+      # -----------------------------------------------
       - name: Generate Android Studio project
-        env:
-          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-          ANDROID_HOME:     ${{ runner.tool_cache }}/android-sdk
         run: buildozer android debug
 
       - name: Upload Android Studio project
