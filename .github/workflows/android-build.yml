@@ -50,4 +50,4 @@ jobs:
 
       - name: Build APK
         run: |
-          buildozer --verbose --log-level 2 android debug
+          buildozer -v android debug
