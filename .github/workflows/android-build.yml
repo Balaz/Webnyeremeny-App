@@ -31,6 +31,8 @@ jobs:
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
 
+    # … after android-actions/setup-android@v3 and installing p4a deps …
+
       - name: Install Android platform-tools, build-tools & platforms
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
@@ -40,12 +42,20 @@ jobs:
             "build-tools;31.0.0" \
             "platforms;android-31"
 
+      - name: Accept all Android SDK licenses
+        env:
+          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+        run: |
+          yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
+
       - name: Generate Android Studio project
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-          ANDROID_HOME:     ${{ runner.tool_cache }}/android-sdk
+          ANDROIDSDK:      ${{ runner.tool_cache }}/android-sdk
+          ANDROID_HOME:    ${{ runner.tool_cache }}/android-sdk
         run: |
           buildozer android debug
+
 
       - name: Upload Android Studio project
         uses: actions/upload-artifact@v4
