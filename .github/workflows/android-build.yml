@@ -9,8 +9,9 @@ jobs:
   export-android-studio-project:
     runs-on: ubuntu-latest
     env:
-      ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
-      ANDROID_HOME:     ${{ runner.tool_cache }}/android-sdk
+      # Use the runner’s tool cache directory at runtime
+      ANDROID_SDK_ROOT: $RUNNER_TOOL_CACHE/android-sdk
+      ANDROID_HOME:     $RUNNER_TOOL_CACHE/android-sdk
 
     steps:
       - name: Checkout repository
@@ -40,7 +41,7 @@ jobs:
           # Ensure sdkmanager can write license files
           mkdir -p ~/.android && touch ~/.android/repositories.cfg
 
-          # Accept all Android SDK licenses before installing any packages
+          # Accept all SDK licenses before installing packages
           yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
 
       - name: Install Android SDK packages
@@ -51,9 +52,6 @@ jobs:
             "build-tools;36.0.0" \
             "platforms;android-31"
 
-      # -----------------------------------------------
-      # Build the Android Studio project via Buildozer
-      # -----------------------------------------------
       - name: Generate Android Studio project
         run: buildozer android debug
 
