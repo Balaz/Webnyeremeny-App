@@ -43,8 +43,9 @@ jobs:
 
       - name: Add sdkmanager to PATH
         run: echo "${{ runner.tool_cache }}/android-sdk/cmdline-tools/latest/bin" >> $GITHUB_PATH
-
-      - name: Install Android platforms & build-tools
+        
+      # 1) Install platform-tools, build-tools 31 & 36, and API 31 into your SDK
+      - name: Install Android SDK components
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
         run: |
@@ -54,11 +55,20 @@ jobs:
             "build-tools;36.0.0" \
             "platforms;android-31"
 
+      # 2) Accept every SDK license (including 36.0.0’s)
       - name: Accept all Android SDK licenses
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
         run: yes | sdkmanager --sdk_root="$ANDROID_SDK_ROOT" --licenses
 
+      # 3) Symlink *that* SDK into Buildozer’s sandbox
+      - name: Point Buildozer at the pre-installed SDK
+        run: |
+          mkdir -p .buildozer/android/platform
+          ln -s "${{ runner.tool_cache }}/android-sdk" \
+                .buildozer/android/platform/android-sdk
+
+      # 4) Finally, generate the Android Studio project
       - name: Generate Android Studio project
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
