@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="" property="og:image">
+   <meta content="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025" name="description"/>
+   <meta content="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025" name="keywords"/>
+   <meta content="Galambos Dániel" name="author"/>
+   <title>
+    Lidl - Baba, Dove, Rexona, Axe nyereményjáték
+   </title>
+   <link href="https://www.webnyeremeny.hu/assets/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-300-latin.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-300-latin-ext.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-600-latin.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/open-sans-normal-600-latin-ext.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/quicksand-normal-500-latin.woff" rel="preload" type="font/woff"/>
+   <link as="font" crossorigin="anonymous" href="https://www.webnyeremeny.hu/assets/fonts/quicksand-normal-500-latin-ext.woff" rel="preload" type="font/woff"/>
+   <!-- Styles -->
+   <link href="/css/fonts.css?id=aaa3faf3f4b44dff6dbb" rel="stylesheet" type="text/css">
+    <link href="/css/main.css?id=f438bce50a24b7e2a059" rel="stylesheet" type="text/css">
+     <!-- Calendar -->
+     <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/main.min.js">
+     </script>
+     <link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/main.min.css" rel="stylesheet">
+      <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.5.0/locales/hu.js">
+      </script>
+      <style>
+       #calendar .fc-event-title {
+			color: #fff;
+		}
+      </style>
+      <!-- Google tag (gtag.js) -->
+      <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VJLWSHDYSL">
+      </script>
+      <script>
+       window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJLWSHDYSL');
+      </script>
+      <script src="//gemhu.adocean.pl/files/js/ado.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       /* (c)AdOcean 2003-2020 */
+        if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+        ado.config({mode: "old", xml: false, consent: true, characterEncoding: true});
+        ado.preview({enabled: true});
+      </script>
+      <script type="text/javascript">
+       var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1542076-33']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+      </script>
+      <script async="" data-ad-client="ca-pub-6824462112492159" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+      </script>
+      <script charset="utf-8" src="//ad.adverticum.net/g3.js" type="text/javascript">
+      </script>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body>
+  <header class="bg-dark">
+   <div class="container flex">
+    <div class="logo flex-1">
+     <a href="/">
+      <img alt="Aktuális nyereményjátékok gyűjtőhelye - nyereményjáték 2025 logo" height="41" src="https://www.webnyeremeny.hu/assets/logo/webnyeremeny.png" width="290"/>
+     </a>
+    </div>
+    <div class="right-section flex">
+     <div class="notification flex">
+      <label class="animate" for="modal-cb">
+       <svg aria-hidden="true" class="icon" data-icon="bell" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+        <path d="M224 512c35.32 0 63.97-28.65 63.97-64H160.03c0 35.35 28.65 64 63.97 64zm215.39-149.71c-19.32-20.76-55.47-51.99-55.47-154.29 0-77.7-54.48-139.9-127.94-155.16V32c0-17.67-14.32-32-31.98-32s-31.98 14.33-31.98 32v20.84C118.56 68.1 64.08 130.3 64.08 208c0 102.3-36.15 133.53-55.47 154.29-6 6.45-8.66 14.16-8.61 21.71.11 16.4 12.98 32 32.1 32h383.8c19.12 0 32-15.6 32.1-32 .05-7.55-2.61-15.27-8.61-21.71z" fill="currentColor">
+        </path>
+       </svg>
+      </label>
+     </div>
+     <div class="newsletter flex-1">
+      <a href="https://forum.webnyeremeny.hu/regisztracio.php?comment=Az%20ingyenes%20heti%20Webnyerem%C3%A9ny%20h%C3%ADrlev%C3%A9lre%20az%20al%C3%A1bbiak%20kit%C3%B6lt%C3%A9s%C3%A9vel%20iratkozhatsz%20fel:%3Cbr%3EHa%20a%20k%C3%A9s%C5%91bbiekben%20m%C3%A1r%20nem%20szeretn%C3%A9d%20tov%C3%A1bb%20kapni%20a%20h%C3%ADrlevelet,%20ugyanitt%20iratkozhatsz%20le,%20a%20h%C3%ADrlev%C3%A9l%20pontban,%20a%20pipa%20kit%C3%B6rl%C3%A9s%C3%A9vel." target="_blank">
+       <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+        <path d="M440 6.5L24 246.4c-34.4 19.9-31.1 70.8 5.7 85.9L144 379.6V464c0 46.4 59.2 65.5 86.6 28.6l43.8-59.1 111.9 46.2c5.9 2.4 12.1 3.6 18.3 3.6 8.2 0 16.3-2.1 23.6-6.2 12.8-7.2 21.6-20 23.9-34.5l59.4-387.2c6.1-40.1-36.9-68.8-71.5-48.9zM192 464v-64.6l36.6 15.1L192 464zm212.6-28.7l-153.8-63.5L391 169.5c10.7-15.5-9.5-33.5-23.7-21.2L155.8 332.6 48 288 464 48l-59.4 387.3z" fill="currentColor">
+        </path>
+       </svg>
+       <b>
+        Hírlevél feliratkozás
+       </b>
+      </a>
+     </div>
+     <div class="text-right">
+      <a href="https://forum.webnyeremeny.hu/forumtemak.php" target="_blank">
+       <button>
+        <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 576 512" xmlns="http://www.w3.org/2000/svg">
+         <path d="M532 386.2c27.5-27.1 44-61.1 44-98.2 0-80-76.5-146.1-176.2-157.9C368.3 72.5 294.3 32 208 32 93.1 32 0 103.6 0 192c0 37 16.5 71 44 98.2-15.3 30.7-37.3 54.5-37.7 54.9-6.3 6.7-8.1 16.5-4.4 25 3.6 8.5 12 14 21.2 14 53.5 0 96.7-20.2 125.2-38.8 9.2 2.1 18.7 3.7 28.4 4.9C208.1 407.6 281.8 448 368 448c20.8 0 40.8-2.4 59.8-6.8C456.3 459.7 499.4 480 553 480c9.2 0 17.5-5.5 21.2-14 3.6-8.5 1.9-18.3-4.4-25-.4-.3-22.5-24.1-37.8-54.8zm-392.8-92.3L122.1 305c-14.1 9.1-28.5 16.3-43.1 21.4 2.7-4.7 5.4-9.7 8-14.8l15.5-31.1L77.7 256C64.2 242.6 48 220.7 48 192c0-60.7 73.3-112 160-112s160 51.3 160 112-73.3 112-160 112c-16.5 0-33-1.9-49-5.6l-19.8-4.5zM498.3 352l-24.7 24.4 15.5 31.1c2.6 5.1 5.3 10.1 8 14.8-14.6-5.1-29-12.3-43.1-21.4l-17.1-11.1-19.9 4.6c-16 3.7-32.5 5.6-49 5.6-54 0-102.2-20.1-131.3-49.7C338 339.5 416 272.9 416 192c0-3.4-.4-6.7-.7-10C479.7 196.5 528 238.8 528 288c0 28.7-16.2 50.6-29.7 64z" fill="currentColor">
+         </path>
+        </svg>
+        Fórum
+       </button>
+      </a>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="modal-container container">
+   <input class="hidden" id="modal-cb" name="showNotifDialog" type="checkbox"/>
+   <div class="notification-modal">
+    <label class="close" for="modal-cb">
+     <svg aria-hidden="true" class="icon" focusable="false" role="img" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+      <path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z" fill="currentColor">
+      </path>
+     </svg>
+    </label>
+    <h3>
+     Iratkozz fel!
+    </h3>
+    <p class="row">
+     Ha feliratkozol, rögtön küldünk értesítést, amint egy új nyereményjáték megjelenik az oldalon.
+    </p>
+    <button onclick="initSW()">
+     Feliratkozom!
+    </button>
+   </div>
+  </div>
+  <div class="container flex game" id="page">
+   <main>
+    <div class="row">
+     <div class="banner-group text-center">
+      <div class="banner">
+       <div id="ado-qvOqYLbKA4WZHa2Lmq2h_6bETkxgLFtNulI_2oSe4Gn.W7">
+       </div>
+       <script type="text/javascript">
+        /* (c)AdOcean 2003-2020, cadabra_hu.247.247_970 */
+ado.placement({id: 'ado-qvOqYLbKA4WZHa2Lmq2h_6bETkxgLFtNulI_2oSe4Gn.W7', server: 'gemhu.adocean.pl' });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="box bg-light main-box">
+     <div class="row">
+      <h1 class="main-title text-center">
+       Lidl - Baba, Dove, Rexona, Axe nyereményjáték
+      </h1>
+     </div>
+     <div>
+      <div class="row">
+       <div>
+        <b>
+         Feltétel:
+        </b>
+       </div>
+       <p>
+        Vásárolj bármely Lidl üzletben legalább 2000 Ft értékben Baba, Dove, Dove Men-Care, Rexona, Rexona for Men, Axe dezodort és/vagy tusfürdőt.
+       </p>
+       <p>
+        A vásárlást igazoló blokk adatait regisztráld a játék oldalán.
+       </p>
+       <p>
+        A vásárlást igazoló blokkot őrizd meg, az eredeti nyertes blokkot bekéréstől számított  egy héten belül be kell küldeni.
+       </p>
+       <p>
+        Az itt található információk csak tájékoztató jellegűek, a pontos részletekért olvasd el a hivatalos játékszabályzatot.
+       </p>
+      </div>
+      <div class="row">
+       <div class="banner-group text-center">
+        <div class="banner">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-6824462112492159";
+google_ad_slot = "1135934391";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+         </script>
+         <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+       </div>
+      </div>
+      <table class="row">
+       <tr class="small-row">
+        <td>
+         <b>
+          Kezdete:
+         </b>
+        </td>
+        <td>
+         <span>
+          2025. július 31.
+         </span>
+        </td>
+       </tr>
+       <tr class="small-row">
+        <td>
+         <b>
+          Befejezés:
+         </b>
+        </td>
+        <td>
+         <span>
+          2025. augusztus 21.
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <b>
+          Sorsolás:
+         </b>
+        </td>
+        <td>
+         <span>
+          2025. augusztus 25.
+         </span>
+        </td>
+       </tr>
+      </table>
+      <div class="row">
+       <div class="banner-group text-center">
+        <div class="banner">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-6824462112492159";
+google_ad_slot = "1135934391";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+         </script>
+         <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+       </div>
+      </div>
+      <div>
+       <div>
+        <b>
+         Nyeremény:
+        </b>
+       </div>
+       <p>
+        1 db Samsung TV (QE65Q60DAUXXH) Samsung házimozi rendszerrel (HW-T420/EN),
+       </p>
+       <p>
+        10 db 100.000 Ft értékű Lidl utalvány (előre kisorsolt nyerő időpontokban).
+       </p>
+      </div>
+      <div>
+       <a href="https://www.unileverjatek.hu/UEFAwomensEURO2025-rexona" target="_blank">
+        Játék
+       </a>
+      </div>
+      <div>
+       <a href="https://www.unileverjatek.hu/jsz/UEFAwomensEURO2025-rexona" target="_blank">
+        Hivatalos játékszabályzat
+       </a>
+      </div>
+     </div>
+     <div class="row">
+      <div class="banner-group text-center">
+       <div class="banner">
+        <script type="text/javascript">
+         <!--
+google_ad_client = "ca-pub-6824462112492159";
+google_ad_slot = "1135934391";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+        </script>
+        <script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+        </script>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <aside>
+    <div class="row box bg-dark" id="forum-preview">
+     <div class="forum-preview-head row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtemak.php" target="_blank">
+        Legfrissebb fórum hozzászólások
+       </a>
+      </h1>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       Vágási 2.0
+      </b>
+      <div class="comment">
+       Aki esetleg nyer(t) komoly értékű (fő)nyereményt Screvo-s játékon, az megtenné, hogy beírja?
+       <br/>
+       <br/>
+       Nagyon kíváncsi lennék a fődíjak nyerő időpontjaira. Játék eleje, közepe, vége?
+       <br/>
+       <br/>
+       És az is érdekelne, hogy mennyi idő alatt igazolják vissza a nyertességet. (Feltételezem, hogy eredeti nyugtátkat nem kérnek be postán.)
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       TéglagyáriM
+      </b>
+      <div class="comment">
+       Ha valaki esetleg nyert "Főnyeremény"-t a Starbucks játékon...
+       <br/>
+       Neki is kimaradt a 1 db – Starbucks® Tumbler a csomagból?
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=626" target="_blank">
+        Nem csere-bere, hanem vásárlás
+       </a>
+      </h1>
+      <b>
+       Andi1978
+      </b>
+      <div class="comment">
+       Üdv ! Szerdai napra kèt SZIGET jegyet keresek !!
+       <br/>
+       markotandi1978@gmail.com 06308877393
+       <br/>
+       Köszönöm !
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=11" target="_blank">
+        Nyereményjáték infók
+       </a>
+      </h1>
+      <b>
+       Vágási 2.0
+      </b>
+      <div class="comment">
+       Játsszon és nyerjen! Most minden promóciós csomagolású tejes és csokis Dörmi egy 7 jegyű kódot rejt. Töltse fel 2025. augusztus 11. és október 6. között a csomagolás belsejében található kódot a www.dorminyeremenyjatek.hu oldalra, és vigye haza a napi nyereményt, valamint a heti 800 000 Ft-ot, vagy legyen Öné a fődíj, egy családi utazás a Gardaland Parkba! A játékszabályzatot a www.dorminyeremenyjatek.hu oldalon találja. Kérjük, a kartontálcát őrizze meg a nyeremény átvételéig!
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=11" target="_blank">
+        Nyereményjáték infók
+       </a>
+      </h1>
+      <b>
+       Stefi888
+      </b>
+      <div class="comment">
+       https://pepita.hu/pepita-top100
+       <br/>
+       <br/>
+       Nyereményjáték értékes ajándékokkal:
+       <br/>
+       - Candy alulfagyasztós hűtőszekrény
+       <br/>
+       - Royality Line Air 4in1 léghűző
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       jkland
+      </b>
+      <div class="comment">
+       Szívesen!
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=9" target="_blank">
+        Negatív tapasztalatok
+       </a>
+      </h1>
+      <b>
+       weber
+      </b>
+      <div class="comment">
+       Penny kártya regisztráló játék nyerteseiről tudni? Kb.1 hete megkérdeztem fb-n és most nézem, hogy válasz nélkül törölték a kérdésem.
+       <img alt=":O" src="https://forum.webnyeremeny.hu/images/forumfejek/4.gif" title=":O"/>
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       sada
+      </b>
+      <div class="comment">
+       Ja...
+       <br/>
+       Olyan nincs félénk.
+       <br/>
+       Köszi!
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=9" target="_blank">
+        Negatív tapasztalatok
+       </a>
+      </h1>
+      <b>
+       ZORRO
+      </b>
+      <div class="comment">
+       Valószinű megveszik a Martinikat!
+       <br/>
+       Miért ne nyerhetne többet ha fektet bele pénzt?
+       <br/>
+       Ezek nem olcsó termékek hogy csalnának vele.
+       <br/>
+       A szerencse válogatja az embereket,nem csak zsákszámra blokk kell hozzá hanem ott fenn valami mást is néznek.
+       <br/>
+       Ezért nincsennek lassan normális játékok,mert szétcseszik a játékszervezőket.
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       jkland
+      </b>
+      <div class="comment">
+       sada
+       <br/>
+       A Reál akciós újságban benne van.
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       weber
+      </b>
+      <div class="comment">
+       Én a Spar oldalán láttam pár napja, de azóta eltűnt.
+      </div>
+     </div>
+     <div class="forum-preview-item small-row">
+      <h1>
+       <a href="https://forum.webnyeremeny.hu/forumtartalom.php?tid=52" target="_blank">
+        Kérdések és válaszok
+       </a>
+      </h1>
+      <b>
+       sada
+      </b>
+      <div class="comment">
+       bbsc
+       <br/>
+       És melyik akciós újságban?
+      </div>
+     </div>
+    </div>
+    <div class="box bg-dark row">
+     <div class="login-form">
+      <h2>
+       Bejelentkezés a fórumba
+      </h2>
+      <form action="https://forum.webnyeremeny.hu/index.php" method="POST" name="login" target="_blank">
+       <input name="login" type="hidden" value="1"/>
+       <input name="ugras" type="hidden" value="forumtemak.php"/>
+       <div class="small-row text-right">
+        <label class="font-small">
+         Nick:
+         <input autocomplete="username" name="nick" required="" type="text">
+         </input>
+        </label>
+       </div>
+       <div class="small-row text-right">
+        <label class="font-small">
+         Jelszó:
+         <input autocomplete="current-password" name="pwd" required="" type="password">
+         </input>
+        </label>
+       </div>
+       <div class="row text-right">
+        <button type="submit">
+         Bejelentkezés
+        </button>
+       </div>
+      </form>
+      <hr/>
+      <div class="font-small flex">
+       <div class="flex-1">
+        <a href="https://forum.webnyeremeny.hu/regisztracio.php" target="_blank">
+         Regisztráció
+        </a>
+       </div>
+       <div>
+        <a href="https://forum.webnyeremeny.hu/jelszoemlekezteto.php" target="_blank">
+         Elfelejtett jelszó
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </aside>
+  </div>
+  <footer class="bg-dark">
+   <div class="container">
+    <div class="flex">
+     <nav class="flex-1 small-row">
+      <a href="/impresszum">
+       Impresszum
+      </a>
+      |
+      <a href="/mediaajanlat">
+       Médiajánlat
+      </a>
+     </nav>
+     <nav class="small-row">
+      <a href="/nyeremenyjatekok">
+       Aktuális nyereményjátékok
+      </a>
+      |
+      <a href="/lejart-nyeremenyjatekok">
+       Lejárt nyereményjátékok
+      </a>
+      |
+      <a href="/feed" target="_blank">
+       RSS
+      </a>
+     </nav>
+    </div>
+    <div class="text-center">
+    </div>
+   </div>
+  </footer>
+  <script>
+   const remote_api = 'https://admin.nyeremenyjatekkozpont.hu/api/';
+		const VAPID_public_key = 'BNlbY7PlbdUWVLWRRando9bKICDksV-fSbinAhQCZPCcZMTw_KbkvuOdx8GlPiV7h3Ul_Ih9Ng1VolpGLo_G5B8';
+  </script>
+  <script>
+   if(!'serviceWorker' in navigator || !'PushManager' in window || window.safari) {
+			document.querySelector('.notification').style.visibility = 'hidden';
+		} else {
+			const script = document.createElement('script');
+			script.src = "/js/enable-push.js?id=ae972b17e2b6efbe5bec";
+			document.body.appendChild(script);
+		}
+  </script>
+ </body>
+</html>

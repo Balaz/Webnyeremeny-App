@@ -1,4 +1,5 @@
 from screen_modules import *
+import games
 
 BASE_URL = "https://www.webnyeremeny.hu"
 
@@ -52,7 +53,7 @@ class ScreenGame(MDScreen):
 
         card_size = Window.width * 0.42
         for url in urls_list:
-            label_text = "Lorem Ipsum" #games.get_text_from_the_game_URL(url)
+            label_text = games.get_game_description(url)
             '''
             Nyeremmény
             Feltétel első mondata (vásárolj ezt azt)

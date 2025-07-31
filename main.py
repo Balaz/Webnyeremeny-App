@@ -38,7 +38,7 @@ class ScreenMain(MDScreen):
 class WebnyeremenyApp(MDApp):
     def build(self):
         self.title = "Webnyeremény"
-        contests_df = contests.get_all_contest_offline()
+        contests_df = contests.collect_contests()
 
         sm = ScreenManager()
         sm.add_widget(ScreenMain(name="main"))
