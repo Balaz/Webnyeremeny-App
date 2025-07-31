@@ -1,12 +1,15 @@
-from screens.modules import *
+from screen_modules import *
 
-class URLsScreen(MDScreen):
+BASE_URL = "https://www.webnyeremeny.hu"
+
+class ScreenGame(MDScreen):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         root = BoxLayout(orientation="vertical")
 
         self.title_label = MDTopAppBarTitle(text="")
 
+        # Return button to go back to the stores screen
         appbar = MDTopAppBar(
             MDTopAppBarLeadingButtonContainer(
                 MDActionTopAppBarButton(
@@ -31,7 +34,7 @@ class URLsScreen(MDScreen):
         root.add_widget(self.scroll)
         self.add_widget(root)
 
-    def update_urls(self, store_name, stores_df):
+    def update_games(self, store_name, stores_df):
         self.title_label.text = store_name
         self.flow.clear_widgets()
 
@@ -49,9 +52,8 @@ class URLsScreen(MDScreen):
 
         card_size = Window.width * 0.42
         for url in urls_list:
-            label_text = url.strip("/").replace("-", " ").capitalize()
+            label_text = "Lorem Ipsum" #games.get_text_from_the_game_URL(url)
             '''
-            label_text = get_game_description.get_text_from_the_game_URL(url)
             Nyeremmény
             Feltétel első mondata (vásárolj ezt azt)
             Játék kezdete - Befejezése --> Sorsolás dátuma
