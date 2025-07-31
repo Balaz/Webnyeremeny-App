@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import re
 
 from bs4 import BeautifulSoup
 
@@ -38,16 +39,51 @@ def get_game_description(url):
     #soup = get_game_description_online(url)
     soup = get_game_description_offline()
 
-    contests_list = []
-    for card in soup.select(".category-box"):
-        title = card.select_one("h1").get_text(strip=True)
-        games = card.select_one(".category-list").get_text(strip=True, separator=", ")
-        games = games.replace(", (új)", " (új)")
-        urls = [a["href"] for a in card.select(".category-list a")]
-        contests_list.append({
+    game_desc_list = []
+    for card in soup.select(".box.bg-light.main-box"):
+
+        # — TITLE (strip off the "Lidl - " prefix if present)
+        full_title = card.select_one("h1").get_text(strip=True)
+        if " - " in full_title:
+            title = full_title.split(" - ", 1)[1]
+        else:
+            title = full_title
+        
+
+        # — CONDITION (first <p> immediately after the <b>Feltétel:</b>)
+        feltetel_b = card.find("b", string=re.compile(r"Feltétel", re.IGNORECASE))
+        #condition = feltetel_b.find_next_sibling("p").get_text(strip=True)
+        row_div = feltetel_b.parent.parent
+        ps = row_div.find_all("p")
+        condition = ps[0].get_text(strip=True)
+
+        # — DATES
+        dates = {}
+        for tr in card.select("table.row tr"):
+            label = tr.select_one("b").get_text(strip=True).rstrip(":")
+            date_text = tr.select_one("span").get_text(strip=True)
+            if label == "Kezdete":
+                dates["start"] = date_text
+            elif label == "Befejezés":
+                dates["end"] = date_text
+            elif label == "Sorsolás":
+                dates["draw"] = date_text
+
+        # — PRIZE (all <p> siblings after the <b>Nyeremény:</b>)
+        prize = []
+        prize_b = card.find("b", string=re.compile(r"Nyeremény", re.IGNORECASE))
+        container_div = prize_b.parent.parent
+        for p in container_div.find_all("p"):
+            text = p.get_text(strip=True)
+            prize.append(text)
+
+        game_desc_list.append({
             "title": title,
-            "games": games,
-            "urls": urls
+            "condition": condition,
+            "dates": dates,
+            "prize": prize
         })
 
-    return "asdqwe"
+    game_desc_df = pd.DataFrame(game_desc_list)
+
+    return game_desc_df

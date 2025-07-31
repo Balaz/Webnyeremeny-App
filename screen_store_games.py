@@ -35,7 +35,7 @@ class ScreenGame(MDScreen):
         root.add_widget(self.scroll)
         self.add_widget(root)
 
-    def update_games(self, store_name, stores_df):
+    def set_game_cards(self, store_name, stores_df):
         self.title_label.text = store_name
         self.flow.clear_widgets()
 
@@ -53,12 +53,8 @@ class ScreenGame(MDScreen):
 
         card_size = Window.width * 0.42
         for url in urls_list:
-            label_text = games.get_game_description(url)
-            '''
-            Nyeremmény
-            Feltétel első mondata (vásárolj ezt azt)
-            Játék kezdete - Befejezése --> Sorsolás dátuma
-            '''
+            game_desc_df = games.get_game_description(url)
+
             card = MDCard(
                 orientation="horizontal",
                 size_hint=(1, None),
@@ -68,7 +64,8 @@ class ScreenGame(MDScreen):
                 elevation=4,
             )
             card.add_widget(
-                MDLabel(text=label_text, halign="center", valign="middle", font_size=card_size * 0.13)
+                MDLabel(text="Game Title", halign="center", valign="middle", font_size=card_size * 0.13)
             )
+
             card.bind(on_release=lambda _, u=url: webbrowser.open(BASE_URL + u))
             self.flow.add_widget(card)

@@ -133,7 +133,7 @@ class ScreenStores(MDScreen):
 
     def _open_store(self, store_name):
         games_screen = self.manager.get_screen("store_games")
-        games_screen.update_games(store_name, self.stores_df)
+        games_screen.set_game_cards(store_name, self.stores_df)
         self.manager.current = "store_games"
 
     def get_card_size(self):
